@@ -36,7 +36,7 @@ A comprehensive learning platform for Agile methodologies, offering courses, tes
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/agile-learning-platform.git
+git clone https://github.com/ebulfez21/Agile
 ```
 
 2. Navigate to the project directory:
